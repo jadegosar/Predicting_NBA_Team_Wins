@@ -1,5 +1,5 @@
 ---
-title: "R Notebook"
+title: "Predicting NBA Team Wins"
 output: html_notebook
 ---
 
